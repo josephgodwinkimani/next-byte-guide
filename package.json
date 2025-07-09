@@ -1,0 +1,44 @@
+{
+  "name": "next-byte-guide",
+  "version": "0.1.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephgodwinkimani/next-byte-guide.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.2.0",
+    "@mui/x-charts": "^8.7.0",
+    "@mui/x-tree-view": "^8.7.0",
+    "@toolpad/core": "^0.16.0",
+    "byte-guide": "^1.0.8",
+    "next": "14.2.30",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.30",
+    "typescript": "^5"
+  },
+    "authors": [
+    {
+      "name": "Godwin Kimani",
+      "email": "josephgodwinke@gmail.com",
+      "homepage": "http://kimani.gocho.live",
+      "role": "Developer"
+    }
+  ]
+}
